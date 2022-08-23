@@ -1,0 +1,71 @@
+15.07.2019:
+
+Beginn: 08:30 uhr
+
+-Projekt besprechung mit Hr.Mouton							-	08:30 Uhr
+-Projekt erstellung - Konzeptplanungsbeginn						-	08:40 Uhr
+-Projekt Recherche: Automatischer Datenbezug aus dem Internet				-	08:55 Uhr
+-Daraus-abgeleitete-Recherche über WebFeeds, Feedreader, 				-	09:00 Uhr
+ RSS Feed & Aggregatorprogrammen zum Automatischen Datenbezug aus dem Internet.		
+-Projekt Ordner angelegt								-	10:00 Uhr
+-Projekt Beschreibung angelegt mit Inhalt						-	10:15 Uhr
+-Projekt Strukturplan angelegt mit Inhalt						-	10:30 Uhr
+-Recherche/Konzeptplanung								-	11:00 Uhr - 15 Uhr
+
+Ende: 15:00 uhr
+
+Nachmittagsarbeit: 16 Uhr - 18 Uhr
+
+-Recherche Feedreader, Syndication-Feed, RSS-Feed
+
+16.07.2019:
+
+Beginn: 08:30 Uhr
+
+-Recherche einbindung (Parsen/Readen) von RSS Feeds in .Net Visual C# in Visual Studio  		-	08:30 Uhr
+-Projekt besprechung mit Hr.Mouton									-	09:40 Uhr
+-Recherche hat ergeben, dass ein einbinden eines RSS Feeds über die Zeitvorgabe hinausgeht      	-	09:45 Uhr
+-Konzeptionsstruktur-Organisation und Projektstrukturplan(Prototyp) ergänzen um 
+ Zeiteinschätzungen/Umsetzbarkeit für Aufgaben 								-	09:45 Uhr
+-ERD-Erstellt auf Papier vorerst									-	11:15 Uhr
+-Beginn der Datenbankerstellung										-	11:30 Uhr
+-Datenbankerstellung fertig										-	12:00 Uhr
+-Konzeptüberlegung Windows-Forms									-	12:20 Uhr - 12:45 Uhr
+
+Ende: 12:45 Uhr
+
+Nachmittagsarbeit: 16 Uhr - 18 Uhr
+
+-Recherche über drawer in Visual Studio mit Visual C#
+
+17.07.2019
+
+beginn: 8:30 Uhr
+
+- Anlegen der Klassen für dass Projekt in Visual C#, Visual Studio					-	09:00 Uhr 
+- Klassen angelegt											-	12:00 Uhr
+- Projektbesprechung mit Hr.Mouton									-	12:15 Uhr
+- Anwendungsdesign/Haupt-Scource-Code beginn								-	12:40 Uhr
+- Anwendungsdesign/Haupt-Scource-Code unterbrechung							-	14:15 Uhr
+
+Nachmittagsarbeit: 16 Uhr - 18 Uhr
+
+- Anwendungsdesign/Haupt-Scource-Code fortführung
+
+18.07.2019
+
+beginn: 9:30 uhr
+
+- Draw Form bearbeitet, recherche zur anwendung von Drawing 9:30 - 10:45
+- Projektbesprechung mit Hr.Mouton
+- Organisation und planung zur fertigstellung des Projekts
+
+19.07.2019
+
+beginn: 09:30 
+
+-Abschließende Dokumentationszusammtragung.
+-Projekabgabe - gegen Abend
+
+
+ende: 13:15 Uhr

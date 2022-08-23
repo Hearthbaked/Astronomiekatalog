@@ -1,0 +1,17 @@
+C:\Users\Stephan\source\repos\Astronomiekatalog\Astronomiekatalog\bin\Debug\Astronomiekatalog.exe.config
+C:\Users\Stephan\source\repos\Astronomiekatalog\Astronomiekatalog\bin\Debug\Astronomiekatalog.exe
+C:\Users\Stephan\source\repos\Astronomiekatalog\Astronomiekatalog\bin\Debug\Astronomiekatalog.pdb
+C:\Users\Stephan\source\repos\Astronomiekatalog\Astronomiekatalog\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Stephan\source\repos\Astronomiekatalog\Astronomiekatalog\bin\Debug\Google.Protobuf.dll
+C:\Users\Stephan\source\repos\Astronomiekatalog\Astronomiekatalog\bin\Debug\MySql.Data.dll
+C:\Users\Stephan\source\repos\Astronomiekatalog\Astronomiekatalog\bin\Debug\Google.Protobuf.xml
+C:\Users\Stephan\source\repos\Astronomiekatalog\Astronomiekatalog\bin\Debug\MySql.Data.xml
+C:\Users\Stephan\source\repos\Astronomiekatalog\Astronomiekatalog\obj\Debug\Astronomiekatalog.csprojAssemblyReference.cache
+C:\Users\Stephan\source\repos\Astronomiekatalog\Astronomiekatalog\obj\Debug\Astronomiekatalog.FormGrafik.resources
+C:\Users\Stephan\source\repos\Astronomiekatalog\Astronomiekatalog\obj\Debug\Astronomiekatalog.FormKatalog.resources
+C:\Users\Stephan\source\repos\Astronomiekatalog\Astronomiekatalog\obj\Debug\Astronomiekatalog.Properties.Resources.resources
+C:\Users\Stephan\source\repos\Astronomiekatalog\Astronomiekatalog\obj\Debug\Astronomiekatalog.csproj.GenerateResource.cache
+C:\Users\Stephan\source\repos\Astronomiekatalog\Astronomiekatalog\obj\Debug\Astronomiekatalog.csproj.CoreCompileInputs.cache
+C:\Users\Stephan\source\repos\Astronomiekatalog\Astronomiekatalog\obj\Debug\Astronomiekatalog.csproj.CopyComplete
+C:\Users\Stephan\source\repos\Astronomiekatalog\Astronomiekatalog\obj\Debug\Astronomiekatalog.exe
+C:\Users\Stephan\source\repos\Astronomiekatalog\Astronomiekatalog\obj\Debug\Astronomiekatalog.pdb
